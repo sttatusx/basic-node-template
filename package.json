@@ -1,0 +1,10 @@
+{
+  "name": "basic-node-template",
+  "description": "Basic node template for my future projects",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/sttatusx/basic-node-template.git",
+  "homepage": "https://github.com/sttatusx/basic-node-template.git",
+  "author": "Yasin Silavi <yas.silavi28@gmail.com>",
+  "license": "MIT"
+}
