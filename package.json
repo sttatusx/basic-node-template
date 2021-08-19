@@ -6,5 +6,8 @@
   "repository": "https://github.com/sttatusx/basic-node-template.git",
   "homepage": "https://github.com/sttatusx/basic-node-template.git",
   "author": "Yasin Silavi <yas.silavi28@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "16.6.2"
+  }
 }
