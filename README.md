@@ -6,7 +6,8 @@ Basic node.js template for my future projects
 
 ## TODO
 
-- ESLint
-- TypeScript
-- NPM Packages
-- Node folder structure
+- [ ] ESLint
+- [x] TypeScript
+- [x] Webpack 5
+- [ ] NPM Packages
+- [x] Base folder structure
